@@ -1,0 +1,813 @@
+Customer ID,Region,Kategori Favorit,Recency (hari),Frequency,Monetary (Juta),R Score,F Score,M Score,RFM Code,RFM Total,Segment
+Customer-002,Mandalay,Electronics,7,3,17.425,5,4,3,543,12,Loyal Customers
+Customer-004,Yangon,Furniture,58,5,69.59,4,5,5,455,14,Champions
+Customer-005,Mandalay,Electronics,101,2,22.95,3,2,3,323,8,Potential Loyalist
+Customer-006,Bago,Electronics,301,1,39.9,1,1,4,114,6,Lost
+Customer-007,Bago,Office Supplies,189,1,0.25,2,1,1,211,4,About To Sleep
+Customer-008,Bago,Electronics,296,1,19.0,1,1,3,113,5,Lost
+Customer-009,Mandalay,Electronics,255,2,11.7,1,2,2,122,5,Lost
+Customer-012,Mandalay,Electronics,73,3,10.23,3,4,2,342,9,Potential Loyalist
+Customer-013,Yangon,Electronics,45,3,60.96,4,4,5,445,13,Champions
+Customer-014,Mandalay,Furniture,99,1,18.45,3,1,3,313,7,Lost
+Customer-015,Naypyitaw,Furniture,169,1,18.5,2,1,3,213,6,Lost
+Customer-016,Taunggyi,Electronics,119,3,43.55,2,4,4,244,10,At Risk
+Customer-017,Yangon,Electronics,233,3,22.35,1,4,3,143,8,Hibernating
+Customer-019,Bago,Office Supplies,83,3,5.825,3,4,1,341,8,Lost
+Customer-020,Yangon,Electronics,37,5,38.71,4,5,4,454,13,Champions
+Customer-021,Taunggyi,Electronics,8,2,57.55,5,2,5,525,12,New Customers
+Customer-023,Mandalay,Office Supplies,86,3,11.1,3,4,2,342,9,Potential Loyalist
+Customer-024,Yangon,Furniture,80,2,16.2,3,2,3,323,8,Potential Loyalist
+Customer-025,Bago,Furniture,350,1,17.5,1,1,3,113,5,Lost
+Customer-026,Naypyitaw,Furniture,2,3,15.88,5,4,3,543,12,Loyal Customers
+Customer-027,Mandalay,Furniture,279,1,8.55,1,1,2,112,4,Lost
+Customer-028,Bago,Electronics,290,2,10.525,1,2,2,122,5,Lost
+Customer-029,Bago,Electronics,69,1,17.1,4,1,3,413,8,New Customers
+Customer-031,Taunggyi,Electronics,127,2,9.2,2,2,2,222,6,About To Sleep
+Customer-032,Mandalay,Furniture,62,4,31.125,4,5,4,454,13,Champions
+Customer-033,Mandalay,Electronics,160,2,11.625,2,2,2,222,6,About To Sleep
+Customer-035,Bago,Office Supplies,94,3,46.21,3,4,5,345,12,Loyal Customers
+Customer-037,Bago,Electronics,139,3,73.95,2,4,5,245,11,At Risk
+Customer-038,Naypyitaw,Electronics,230,2,15.3,1,2,3,123,6,Lost
+Customer-040,Yangon,Electronics,35,5,59.35,4,5,5,455,14,Champions
+Customer-041,Mandalay,Electronics,338,1,19.95,1,1,3,113,5,Lost
+Customer-042,Yangon,Electronics,350,2,14.67,1,2,3,123,6,Lost
+Customer-043,Yangon,Electronics,56,2,32.15,4,2,4,424,10,New Customers
+Customer-044,Bago,Electronics,72,4,1165.5,3,5,5,355,13,Loyal Customers
+Customer-046,Taunggyi,Furniture,203,1,14.85,2,1,3,213,6,Lost
+Customer-047,Bago,Office Supplies,211,1,5.52,2,1,1,211,4,About To Sleep
+Customer-049,Naypyitaw,Electronics,58,2,10.4,4,2,2,422,8,New Customers
+Customer-050,Mandalay,Furniture,2,2,18.875,5,2,3,523,10,New Customers
+Customer-051,Bago,Electronics,44,5,949.5,4,5,5,455,14,Champions
+Customer-052,Taunggyi,Electronics,294,2,29.95,1,2,4,124,7,Lost
+Customer-053,Yangon,Electronics,115,3,13.2,3,4,2,342,9,Potential Loyalist
+Customer-054,Mandalay,Electronics,363,1,5.2,1,1,1,111,3,Lost
+Customer-055,Bago,Electronics,118,1,18.0,3,1,3,313,7,Lost
+Customer-056,Yangon,Furniture,92,1,8.64,3,1,2,312,6,Promising
+Customer-058,Naypyitaw,Office Supplies,93,1,1.92,3,1,1,311,5,Promising
+Customer-061,Naypyitaw,Furniture,128,1,22.5,2,1,3,213,6,Lost
+Customer-062,Taunggyi,Electronics,149,1,12.5,2,1,2,212,5,About To Sleep
+Customer-063,Naypyitaw,Electronics,160,6,40.555,2,5,4,254,11,At Risk
+Customer-064,Taunggyi,Furniture,160,3,34.36,2,4,4,244,10,At Risk
+Customer-065,Bago,Electronics,134,3,59.46,2,4,5,245,11,At Risk
+Customer-066,Bago,Electronics,38,2,45.85,4,2,5,425,11,New Customers
+Customer-067,Mandalay,Office Supplies,105,1,0.3,3,1,1,311,5,Promising
+Customer-068,Taunggyi,Furniture,216,2,6.06,2,2,1,221,5,About To Sleep
+Customer-069,Taunggyi,Electronics,259,2,15.6,1,2,3,123,6,Lost
+Customer-071,Taunggyi,Office Supplies,84,1,1.2,3,1,1,311,5,Promising
+Customer-072,Mandalay,Office Supplies,29,7,22.205,5,5,3,553,13,Loyal Customers
+Customer-074,Bago,Furniture,142,3,1027.5,2,4,5,245,11,At Risk
+Customer-075,Bago,Electronics,307,1,3.4,1,1,1,111,3,Lost
+Customer-076,Mandalay,Electronics,111,2,8.72,3,2,2,322,7,Potential Loyalist
+Customer-077,Yangon,Electronics,9,1,35.15,5,1,4,514,10,New Customers
+Customer-078,Yangon,Furniture,37,5,993.0,4,5,5,455,14,Champions
+Customer-080,Taunggyi,Furniture,140,2,6.965,2,2,1,221,5,About To Sleep
+Customer-081,Mandalay,Office Supplies,255,1,0.475,1,1,1,111,3,Lost
+Customer-082,Mandalay,Electronics,10,1,8.6,5,1,2,512,8,New Customers
+Customer-083,Naypyitaw,Electronics,358,1,32.3,1,1,4,114,6,Lost
+Customer-084,Yangon,Electronics,149,1,4.2,2,1,1,211,4,About To Sleep
+Customer-085,Yangon,Electronics,183,3,7.99,2,4,2,242,8,Need Attention
+Customer-086,Naypyitaw,Furniture,160,1,6.3,2,1,1,211,4,About To Sleep
+Customer-087,Yangon,Furniture,260,1,14.5,1,1,3,113,5,Lost
+Customer-088,Mandalay,Electronics,80,3,11.625,3,4,2,342,9,Potential Loyalist
+Customer-089,Yangon,Furniture,111,1,11.25,3,1,2,312,6,Promising
+Customer-090,Mandalay,Electronics,189,1,2.2,2,1,1,211,4,About To Sleep
+Customer-091,Yangon,Office Supplies,356,1,3.24,1,1,1,111,3,Lost
+Customer-092,Naypyitaw,Electronics,76,2,21.8,3,2,3,323,8,Potential Loyalist
+Customer-093,Bago,Electronics,206,1,13.65,2,1,2,212,5,About To Sleep
+Customer-094,Naypyitaw,Electronics,84,1,12.25,3,1,2,312,6,Promising
+Customer-095,Yangon,Electronics,27,4,22.35,5,5,3,553,13,Loyal Customers
+Customer-096,Mandalay,Office Supplies,35,1,1.56,4,1,1,411,6,New Customers
+Customer-097,Bago,Furniture,233,1,11.0,1,1,2,112,4,Lost
+Customer-099,Taunggyi,Electronics,225,3,15.01,1,4,3,143,8,Hibernating
+Customer-1000,Bago,Electronics,31,1,10.5,5,1,2,512,8,New Customers
+Customer-101,Taunggyi,Electronics,98,3,45.96,3,4,5,345,12,Loyal Customers
+Customer-102,Mandalay,Electronics,43,4,29.58,4,5,4,454,13,Champions
+Customer-103,Yangon,Electronics,10,3,31.28,5,4,4,544,13,Champions
+Customer-104,Naypyitaw,Electronics,162,1,1.4,2,1,1,211,4,About To Sleep
+Customer-105,Bago,Electronics,13,4,24.47,5,5,4,554,14,Champions
+Customer-106,Naypyitaw,Electronics,139,1,5.95,2,1,1,211,4,About To Sleep
+Customer-107,Yangon,Electronics,85,2,12.25,3,2,2,322,7,Potential Loyalist
+Customer-109,Bago,Furniture,36,3,27.02,4,4,4,444,12,Champions
+Customer-110,Mandalay,Electronics,7,2,37.525,5,2,4,524,11,New Customers
+Customer-111,Mandalay,Office Supplies,99,3,13.88,3,4,2,342,9,Potential Loyalist
+Customer-112,Taunggyi,Electronics,7,5,46.465,5,5,5,555,15,Champions
+Customer-113,Yangon,Electronics,20,6,44.78,5,5,5,555,15,Champions
+Customer-114,Taunggyi,Furniture,129,1,4.86,2,1,1,211,4,About To Sleep
+Customer-115,Naypyitaw,Electronics,55,3,56.6,4,4,5,445,13,Champions
+Customer-117,Mandalay,Office Supplies,63,1,5.64,4,1,1,411,6,New Customers
+Customer-118,Naypyitaw,Electronics,129,3,22.65,2,4,3,243,9,At Risk
+Customer-119,Yangon,Electronics,80,2,14.85,3,2,3,323,8,Potential Loyalist
+Customer-120,Yangon,Electronics,85,3,18.3,3,4,3,343,10,Loyal Customers
+Customer-121,Taunggyi,Electronics,71,2,79.2,4,2,5,425,11,New Customers
+Customer-122,Bago,Office Supplies,252,1,4.44,1,1,1,111,3,Lost
+Customer-123,Mandalay,Office Supplies,133,1,2.4,2,1,1,211,4,About To Sleep
+Customer-124,Yangon,Furniture,35,3,6.0,4,4,1,441,9,Lost
+Customer-125,Mandalay,Electronics,9,3,20.825,5,4,3,543,12,Loyal Customers
+Customer-126,Yangon,Electronics,1,2,7.55,5,2,2,522,9,New Customers
+Customer-127,Yangon,Furniture,80,3,24.04,3,4,3,343,10,Loyal Customers
+Customer-128,Yangon,Furniture,51,2,12.725,4,2,2,422,8,New Customers
+Customer-129,Taunggyi,Electronics,188,3,65.47,2,4,5,245,11,At Risk
+Customer-130,Taunggyi,Electronics,336,1,2.6,1,1,1,111,3,Lost
+Customer-131,Taunggyi,Electronics,41,2,16.45,4,2,3,423,9,New Customers
+Customer-132,Naypyitaw,Furniture,92,1,15.5,3,1,3,313,7,Lost
+Customer-133,Mandalay,Furniture,148,4,28.97,2,5,4,254,11,At Risk
+Customer-136,Mandalay,Electronics,7,9,914.25,5,5,5,555,15,Champions
+Customer-137,Mandalay,Electronics,36,2,41.3,4,2,4,424,10,New Customers
+Customer-138,Taunggyi,Electronics,140,1,16.8,2,1,3,213,6,Lost
+Customer-139,Taunggyi,Electronics,78,4,72.85,3,5,5,355,13,Loyal Customers
+Customer-140,Mandalay,Furniture,9,4,53.99,5,5,5,555,15,Champions
+Customer-141,Mandalay,Electronics,174,3,11.15,2,4,2,242,8,Need Attention
+Customer-142,Taunggyi,Electronics,8,2,6.48,5,2,1,521,8,New Customers
+Customer-143,Bago,Electronics,192,3,21.7,2,4,3,243,9,At Risk
+Customer-144,Naypyitaw,Electronics,2,2,49.0,5,2,5,525,12,New Customers
+Customer-146,Yangon,Office Supplies,218,1,0.575,2,1,1,211,4,About To Sleep
+Customer-147,Mandalay,Electronics,23,3,30.91,5,4,4,544,13,Champions
+Customer-148,Naypyitaw,Electronics,56,7,846.15,4,5,5,455,14,Champions
+Customer-149,Taunggyi,Office Supplies,255,1,0.675,1,1,1,111,3,Lost
+Customer-150,Yangon,Electronics,111,4,971.1,3,5,5,355,13,Loyal Customers
+Customer-151,Mandalay,Furniture,349,2,11.06,1,2,2,122,5,Lost
+Customer-152,Mandalay,Furniture,28,2,24.0,5,2,3,523,10,New Customers
+Customer-153,Mandalay,Furniture,35,1,18.0,4,1,3,413,8,New Customers
+Customer-154,Naypyitaw,Electronics,98,2,21.4,3,2,3,323,8,Potential Loyalist
+Customer-156,Taunggyi,Electronics,28,1,13.65,5,1,2,512,8,New Customers
+Customer-157,Mandalay,Electronics,112,2,15.45,3,2,3,323,8,Potential Loyalist
+Customer-159,Mandalay,Electronics,31,6,947.5,5,5,5,555,15,Champions
+Customer-160,Mandalay,Electronics,225,1,20.4,1,1,3,113,5,Lost
+Customer-161,Bago,Electronics,259,1,12.0,1,1,2,112,4,Lost
+Customer-162,Naypyitaw,Electronics,265,1,43.7,1,1,4,114,6,Lost
+Customer-163,Yangon,Furniture,259,4,51.6,1,5,5,155,11,Cant Lose Them
+Customer-165,Mandalay,Electronics,199,1,8.6,2,1,2,212,5,About To Sleep
+Customer-168,Mandalay,Electronics,2,2,45.3,5,3,5,535,13,Loyal Customers
+Customer-170,Mandalay,Electronics,62,3,62.04,4,4,5,445,13,Champions
+Customer-171,Bago,Electronics,336,1,35.15,1,1,4,114,6,Lost
+Customer-172,Bago,Electronics,57,2,17.53,4,3,3,433,10,Loyal Customers
+Customer-173,Mandalay,Electronics,41,7,58.275,4,5,5,455,14,Champions
+Customer-174,Mandalay,Furniture,233,1,8.46,1,1,2,112,4,Lost
+Customer-175,Taunggyi,Office Supplies,31,1,1.32,5,1,1,511,7,New Customers
+Customer-176,Bago,Electronics,41,2,18.4,4,3,3,433,10,Loyal Customers
+Customer-179,Yangon,Electronics,71,4,54.85,4,5,5,455,14,Champions
+Customer-180,Mandalay,Office Supplies,174,9,1079.6,2,5,5,255,12,At Risk
+Customer-181,Bago,Electronics,71,1,14.35,4,1,3,413,8,New Customers
+Customer-182,Taunggyi,Electronics,204,2,16.82,2,3,3,233,8,At Risk
+Customer-183,Naypyitaw,Electronics,72,2,46.225,3,3,5,335,11,Loyal Customers
+Customer-184,Yangon,Furniture,9,2,4.05,5,3,1,531,9,Lost
+Customer-185,Yangon,Electronics,63,1,9.8,4,1,2,412,7,New Customers
+Customer-186,Yangon,Electronics,63,3,31.85,4,4,4,444,12,Champions
+Customer-187,Taunggyi,Furniture,141,4,56.06,2,5,5,255,12,At Risk
+Customer-188,Yangon,Electronics,111,2,18.9,3,3,3,333,9,Loyal Customers
+Customer-189,Mandalay,Electronics,78,3,16.2,3,4,3,343,10,Loyal Customers
+Customer-190,Yangon,Furniture,129,2,5.825,2,3,1,231,6,Need Attention
+Customer-191,Naypyitaw,Electronics,139,3,18.075,2,4,3,243,9,At Risk
+Customer-192,Taunggyi,Office Supplies,198,1,4.68,2,1,1,211,4,About To Sleep
+Customer-193,Yangon,Electronics,6,6,1332.05,5,5,5,555,15,Champions
+Customer-195,Yangon,Electronics,73,2,11.43,3,3,2,332,8,Potential Loyalist
+Customer-196,Naypyitaw,Furniture,330,1,3.5,1,1,1,111,3,Lost
+Customer-197,Yangon,Electronics,282,2,17.0,1,3,3,133,7,Hibernating
+Customer-198,Naypyitaw,Electronics,196,2,42.65,2,3,4,234,9,At Risk
+Customer-199,Yangon,Office Supplies,206,3,30.225,2,4,4,244,10,At Risk
+Customer-203,Bago,Furniture,134,1,21.0,2,1,3,213,6,Lost
+Customer-204,Taunggyi,Electronics,168,2,13.1,2,3,2,232,7,Need Attention
+Customer-205,Naypyitaw,Electronics,72,2,15.0,3,3,3,333,9,Loyal Customers
+Customer-206,Yangon,Electronics,129,4,23.5,2,5,3,253,10,At Risk
+Customer-207,Yangon,Electronics,211,2,7.9,2,3,2,232,7,Need Attention
+Customer-208,Mandalay,Office Supplies,307,1,1.0,1,1,1,111,3,Lost
+Customer-209,Yangon,Electronics,273,2,9.07,1,3,2,132,6,Need Attention
+Customer-210,Mandalay,Electronics,211,2,11.68,2,3,2,232,7,Need Attention
+Customer-211,Taunggyi,Electronics,225,1,36.1,1,1,4,114,6,Lost
+Customer-213,Bago,Electronics,93,1,9.0,3,1,2,312,6,Promising
+Customer-214,Yangon,Electronics,190,2,38.825,2,3,4,234,9,At Risk
+Customer-217,Taunggyi,Furniture,255,1,13.5,1,1,2,112,4,Lost
+Customer-219,Naypyitaw,Electronics,23,1,27.55,5,1,4,514,10,New Customers
+Customer-223,Naypyitaw,Electronics,248,1,26.4,1,1,4,114,6,Lost
+Customer-224,Yangon,Electronics,93,3,71.525,3,4,5,345,12,Loyal Customers
+Customer-225,Bago,Electronics,57,2,40.8,4,3,4,434,11,Loyal Customers
+Customer-226,Naypyitaw,Furniture,29,1,19.8,5,1,3,513,9,New Customers
+Customer-227,Yangon,Electronics,225,1,10.8,1,1,2,112,4,Lost
+Customer-228,Naypyitaw,Electronics,106,2,8.55,3,3,2,332,8,Potential Loyalist
+Customer-229,Naypyitaw,Electronics,2,1,12.25,5,1,2,512,8,New Customers
+Customer-230,Yangon,Electronics,41,2,54.35,4,3,5,435,12,Loyal Customers
+Customer-231,Mandalay,Electronics,105,2,49.4,3,3,5,335,11,Loyal Customers
+Customer-232,Yangon,Electronics,80,2,11.575,3,3,2,332,8,Potential Loyalist
+Customer-233,Naypyitaw,Electronics,49,1,60.0,4,1,5,415,10,New Customers
+Customer-234,Naypyitaw,Furniture,234,1,4.05,1,1,1,111,3,Lost
+Customer-236,Mandalay,Furniture,190,1,14.5,2,1,3,213,6,Lost
+Customer-237,Naypyitaw,Electronics,155,3,77.2,2,4,5,245,11,At Risk
+Customer-238,Bago,Electronics,43,2,9.75,4,3,2,432,9,Potential Loyalist
+Customer-239,Naypyitaw,Electronics,72,1,9.5,3,1,2,312,6,Promising
+Customer-240,Naypyitaw,Office Supplies,24,1,0.96,5,1,1,511,7,New Customers
+Customer-241,Yangon,Electronics,36,7,1151.5,4,5,5,455,14,Champions
+Customer-242,Naypyitaw,Electronics,233,3,76.15,1,4,5,145,10,Cant Lose Them
+Customer-243,Mandalay,Electronics,114,4,846.25,3,5,5,355,13,Loyal Customers
+Customer-246,Yangon,Electronics,36,6,1135.0,4,5,5,455,14,Champions
+Customer-248,Bago,Furniture,49,1,4.32,4,1,1,411,6,New Customers
+Customer-250,Naypyitaw,Electronics,360,1,6.0,1,1,1,111,3,Lost
+Customer-251,Yangon,Electronics,71,6,1214.25,4,5,5,455,14,Champions
+Customer-252,Yangon,Furniture,192,1,13.5,2,1,2,212,5,About To Sleep
+Customer-253,Mandalay,Electronics,113,1,46.8,3,1,5,315,9,Lost
+Customer-254,Mandalay,Electronics,113,1,6.75,3,1,1,311,5,Promising
+Customer-255,Yangon,Office Supplies,24,3,15.03,5,4,3,543,12,Loyal Customers
+Customer-256,Naypyitaw,Furniture,134,1,2.52,2,1,1,211,4,About To Sleep
+Customer-258,Mandalay,Electronics,13,6,944.0,5,5,5,555,15,Champions
+Customer-259,Mandalay,Electronics,161,1,8.4,2,1,2,212,5,About To Sleep
+Customer-261,Yangon,Furniture,10,3,37.49,5,4,4,544,13,Champions
+Customer-262,Naypyitaw,Electronics,73,5,59.52,3,5,5,355,13,Loyal Customers
+Customer-263,Taunggyi,Electronics,84,2,8.96,3,3,2,332,8,Potential Loyalist
+Customer-264,Taunggyi,Furniture,6,7,29.775,5,5,4,554,14,Champions
+Customer-265,Mandalay,Electronics,185,4,57.08,2,5,5,255,12,At Risk
+Customer-266,Bago,Electronics,183,2,34.2,2,3,4,234,9,At Risk
+Customer-267,Yangon,Office Supplies,86,4,39.18,3,5,4,354,12,Loyal Customers
+Customer-268,Yangon,Electronics,218,1,3.6,2,1,1,211,4,About To Sleep
+Customer-269,Taunggyi,Electronics,139,1,37.05,2,1,4,214,7,Lost
+Customer-272,Naypyitaw,Electronics,241,2,23.75,1,3,3,133,7,Hibernating
+Customer-273,Mandalay,Electronics,28,4,19.96,5,5,3,553,13,Loyal Customers
+Customer-274,Mandalay,Electronics,161,3,41.9,2,4,4,244,10,At Risk
+Customer-275,Mandalay,Electronics,181,2,20.3,2,3,3,233,8,At Risk
+Customer-276,Mandalay,Electronics,58,6,65.86,4,5,5,455,14,Champions
+Customer-277,Bago,Furniture,190,1,4.68,2,1,1,211,4,About To Sleep
+Customer-278,Mandalay,Electronics,276,1,43.7,1,1,4,114,6,Lost
+Customer-279,Yangon,Electronics,20,7,67.99,5,5,5,555,15,Champions
+Customer-280,Taunggyi,Furniture,161,1,7.74,2,1,2,212,5,About To Sleep
+Customer-281,Mandalay,Electronics,97,1,1.0,3,1,1,311,5,Promising
+Customer-282,Yangon,Electronics,2,7,1186.9,5,5,5,555,15,Champions
+Customer-283,Yangon,Furniture,113,3,46.1,3,4,5,345,12,Loyal Customers
+Customer-284,Naypyitaw,Electronics,64,1,4.5,4,1,1,411,6,New Customers
+Customer-287,Yangon,Electronics,218,2,51.75,2,3,5,235,10,At Risk
+Customer-288,Naypyitaw,Office Supplies,85,2,4.43,3,3,1,331,7,Lost
+Customer-289,Bago,Electronics,297,2,24.9,1,3,4,134,8,Hibernating
+Customer-290,Yangon,Electronics,29,2,49.09,5,3,5,535,13,Loyal Customers
+Customer-291,Naypyitaw,Electronics,37,4,25.935,4,5,4,454,13,Champions
+Customer-292,Naypyitaw,Office Supplies,41,3,19.315,4,4,3,443,11,Loyal Customers
+Customer-293,Naypyitaw,Furniture,311,1,20.5,1,1,3,113,5,Lost
+Customer-294,Yangon,Electronics,41,7,19.0,4,5,3,453,12,Loyal Customers
+Customer-295,Mandalay,Furniture,190,2,3.4,2,3,1,231,6,Need Attention
+Customer-296,Naypyitaw,Furniture,127,2,19.2,2,3,3,233,8,At Risk
+Customer-297,Naypyitaw,Electronics,203,1,5.75,2,1,1,211,4,About To Sleep
+Customer-299,Naypyitaw,Electronics,199,2,9.9,2,3,2,232,7,Need Attention
+Customer-300,Bago,Furniture,181,1,4.14,2,1,1,211,4,About To Sleep
+Customer-301,Taunggyi,Furniture,15,3,18.72,5,4,3,543,12,Loyal Customers
+Customer-302,Taunggyi,Electronics,346,1,2.0,1,1,1,111,3,Lost
+Customer-303,Yangon,Electronics,308,1,7.0,1,1,1,111,3,Lost
+Customer-305,Taunggyi,Electronics,1,2,7.43,5,3,2,532,10,Potential Loyalist
+Customer-306,Yangon,Furniture,78,1,18.0,3,1,3,313,7,Lost
+Customer-307,Mandalay,Electronics,29,3,20.55,5,4,3,543,12,Loyal Customers
+Customer-308,Naypyitaw,Electronics,279,2,32.75,1,3,4,134,8,Hibernating
+Customer-309,Mandalay,Furniture,204,1,18.0,2,1,3,213,6,Lost
+Customer-311,Yangon,Office Supplies,192,1,0.275,2,1,1,211,4,About To Sleep
+Customer-312,Mandalay,Electronics,6,5,910.25,5,5,5,555,15,Champions
+Customer-313,Mandalay,Electronics,127,3,62.95,2,4,5,245,11,At Risk
+Customer-314,Bago,Furniture,16,3,26.125,5,4,4,544,13,Champions
+Customer-315,Naypyitaw,Electronics,118,1,12.6,3,1,2,312,6,Promising
+Customer-316,Mandalay,Furniture,113,2,12.025,3,3,2,332,8,Potential Loyalist
+Customer-317,Yangon,Electronics,45,3,41.35,4,4,4,444,12,Champions
+Customer-318,Taunggyi,Electronics,133,3,14.59,2,4,3,243,9,At Risk
+Customer-320,Naypyitaw,Electronics,129,2,13.7,2,3,2,232,7,Need Attention
+Customer-321,Mandalay,Electronics,99,6,817.5,3,5,5,355,13,Loyal Customers
+Customer-322,Naypyitaw,Electronics,176,2,30.65,2,3,4,234,9,At Risk
+Customer-324,Yangon,Furniture,24,6,32.73,5,5,4,554,14,Champions
+Customer-325,Yangon,Electronics,62,4,53.55,4,5,5,455,14,Champions
+Customer-326,Mandalay,Electronics,20,3,25.975,5,4,4,544,13,Champions
+Customer-327,Yangon,Electronics,135,2,19.2,2,3,3,233,8,At Risk
+Customer-328,Yangon,Office Supplies,111,3,18.625,3,4,3,343,10,Loyal Customers
+Customer-330,Bago,Office Supplies,35,1,2.4,4,1,1,411,6,New Customers
+Customer-331,Mandalay,Electronics,133,2,24.05,2,3,4,234,9,At Risk
+Customer-332,Naypyitaw,Electronics,350,1,11.2,1,1,2,112,4,Lost
+Customer-334,Yangon,Electronics,127,4,44.69,2,5,4,254,11,At Risk
+Customer-335,Yangon,Office Supplies,35,3,16.7,4,4,3,443,11,Loyal Customers
+Customer-336,Naypyitaw,Electronics,345,2,17.5,1,3,3,133,7,Hibernating
+Customer-337,Mandalay,Electronics,13,5,55.33,5,5,5,555,15,Champions
+Customer-338,Mandalay,Furniture,57,1,4.0,4,1,1,411,6,New Customers
+Customer-339,Yangon,Electronics,64,2,51.72,4,3,5,435,12,Loyal Customers
+Customer-340,Mandalay,Furniture,175,1,11.7,2,1,2,212,5,About To Sleep
+Customer-344,Naypyitaw,Electronics,133,2,54.25,2,3,5,235,10,At Risk
+Customer-345,Bago,Office Supplies,111,1,1.225,3,1,1,311,5,Promising
+Customer-347,Bago,Electronics,45,2,8.66,4,3,2,432,9,Potential Loyalist
+Customer-349,Naypyitaw,Office Supplies,1,3,14.49,5,4,3,543,12,Loyal Customers
+Customer-351,Bago,Furniture,203,2,5.94,2,3,1,231,6,Need Attention
+Customer-352,Mandalay,Electronics,357,1,10.8,1,1,2,112,4,Lost
+Customer-355,Yangon,Electronics,104,1,2.45,3,1,1,311,5,Promising
+Customer-356,Bago,Electronics,259,3,24.7,1,4,4,144,9,Cant Lose Them
+Customer-357,Yangon,Furniture,252,1,7.2,1,1,2,112,4,Lost
+Customer-359,Yangon,Electronics,113,3,14.0,3,4,3,343,10,Loyal Customers
+Customer-360,Taunggyi,Electronics,1,3,26.05,5,4,4,544,13,Champions
+Customer-361,Mandalay,Furniture,27,4,29.77,5,5,4,554,14,Champions
+Customer-362,Yangon,Electronics,29,3,20.875,5,4,3,543,12,Loyal Customers
+Customer-363,Taunggyi,Electronics,1,2,12.0,5,3,2,532,10,Potential Loyalist
+Customer-364,Taunggyi,Electronics,273,3,17.42,1,4,3,143,8,Hibernating
+Customer-367,Bago,Furniture,111,1,14.0,3,1,3,313,7,Lost
+Customer-368,Yangon,Electronics,351,1,11.2,1,1,2,112,4,Lost
+Customer-369,Naypyitaw,Electronics,175,3,46.4,2,4,5,245,11,At Risk
+Customer-372,Mandalay,Office Supplies,36,3,6.96,4,4,1,441,9,Lost
+Customer-374,Bago,Electronics,245,2,32.1,1,3,4,134,8,Hibernating
+Customer-375,Taunggyi,Electronics,100,1,5.0,3,1,1,311,5,Promising
+Customer-376,Mandalay,Furniture,294,1,9.9,1,1,2,112,4,Lost
+Customer-377,Taunggyi,Office Supplies,13,1,0.4,5,1,1,511,7,New Customers
+Customer-378,Taunggyi,Electronics,44,2,29.74,4,3,4,434,11,Loyal Customers
+Customer-380,Mandalay,Electronics,181,1,45.6,2,1,5,215,8,Lost
+Customer-381,Bago,Electronics,244,1,20.4,1,1,3,113,5,Lost
+Customer-382,Mandalay,Electronics,149,2,47.7,2,3,5,235,10,At Risk
+Customer-383,Yangon,Furniture,111,2,7.38,3,3,2,332,8,Potential Loyalist
+Customer-385,Bago,Furniture,6,1,3.78,5,1,1,511,7,New Customers
+Customer-387,Yangon,Electronics,148,6,25.385,2,5,4,254,11,At Risk
+Customer-388,Mandalay,Electronics,16,4,28.95,5,5,4,554,14,Champions
+Customer-389,Taunggyi,Electronics,9,3,66.17,5,4,5,545,14,Champions
+Customer-390,Bago,Furniture,113,1,7.2,3,1,2,312,6,Promising
+Customer-392,Mandalay,Electronics,114,2,8.25,3,3,2,332,8,Potential Loyalist
+Customer-393,Bago,Furniture,336,1,18.45,1,1,3,113,5,Lost
+Customer-394,Bago,Furniture,149,3,23.0,2,4,3,243,9,At Risk
+Customer-397,Yangon,Electronics,101,1,7.0,3,1,1,311,5,Promising
+Customer-398,Taunggyi,Electronics,56,3,15.275,4,4,3,443,11,Loyal Customers
+Customer-399,Bago,Furniture,1,1,19.35,5,1,3,513,9,New Customers
+Customer-402,Bago,Electronics,51,3,15.475,4,4,3,443,11,Loyal Customers
+Customer-403,Yangon,Furniture,105,5,61.35,3,5,5,355,13,Loyal Customers
+Customer-404,Mandalay,Electronics,148,1,1.0,2,1,1,211,4,About To Sleep
+Customer-405,Mandalay,Furniture,324,1,7.2,1,1,2,112,4,Lost
+Customer-406,Mandalay,Electronics,9,3,23.1,5,4,3,543,12,Loyal Customers
+Customer-407,Naypyitaw,Furniture,309,1,11.25,1,1,2,112,4,Lost
+Customer-409,Yangon,Electronics,330,1,11.25,1,1,2,112,4,Lost
+Customer-410,Yangon,Electronics,63,7,1138.5,4,5,5,455,14,Champions
+Customer-411,Yangon,Electronics,49,4,13.49,4,5,2,452,11,Potential Loyalist
+Customer-412,Mandalay,Electronics,86,4,46.1,3,5,5,355,13,Loyal Customers
+Customer-413,Naypyitaw,Electronics,45,4,23.01,4,5,3,453,12,Loyal Customers
+Customer-414,Yangon,Electronics,20,2,22.68,5,3,3,533,11,Loyal Customers
+Customer-415,Mandalay,Electronics,230,2,24.15,1,3,4,134,8,Hibernating
+Customer-417,Yangon,Electronics,92,1,3.25,3,1,1,311,5,Promising
+Customer-418,Mandalay,Electronics,254,1,9.5,1,1,2,112,4,Lost
+Customer-419,Naypyitaw,Electronics,29,2,15.82,5,3,3,533,11,Loyal Customers
+Customer-420,Yangon,Furniture,49,2,4.26,4,3,1,431,8,Lost
+Customer-421,Yangon,Furniture,78,2,13.23,3,3,2,332,8,Potential Loyalist
+Customer-422,Taunggyi,Electronics,72,2,20.99,3,3,3,333,9,Loyal Customers
+Customer-423,Bago,Furniture,309,1,7.2,1,1,2,112,4,Lost
+Customer-424,Mandalay,Furniture,92,1,11.0,3,1,2,312,6,Promising
+Customer-426,Mandalay,Electronics,16,6,58.82,5,5,5,555,15,Champions
+Customer-427,Naypyitaw,Furniture,55,1,22.5,4,1,3,413,8,New Customers
+Customer-428,Naypyitaw,Electronics,2,1,50.4,5,1,5,515,11,New Customers
+Customer-429,Mandalay,Furniture,112,2,7.8,3,3,2,332,8,Potential Loyalist
+Customer-430,Taunggyi,Electronics,44,2,24.15,4,3,4,434,11,Loyal Customers
+Customer-431,Yangon,Electronics,98,2,41.4,3,3,4,334,10,Loyal Customers
+Customer-432,Bago,Electronics,44,1,57.6,4,1,5,415,10,New Customers
+Customer-433,Taunggyi,Electronics,275,1,9.8,1,1,2,112,4,Lost
+Customer-437,Taunggyi,Furniture,113,1,18.0,3,1,3,313,7,Lost
+Customer-438,Bago,Electronics,20,3,13.92,5,4,3,543,12,Loyal Customers
+Customer-440,Mandalay,Furniture,83,2,21.99,3,3,3,333,9,Loyal Customers
+Customer-441,Yangon,Electronics,41,3,10.95,4,4,2,442,10,Potential Loyalist
+Customer-442,Taunggyi,Office Supplies,174,1,1.2,2,1,1,211,4,About To Sleep
+Customer-443,Naypyitaw,Electronics,92,1,7.2,3,1,2,312,6,Promising
+Customer-444,Taunggyi,Electronics,175,1,5.95,2,1,1,211,4,About To Sleep
+Customer-445,Mandalay,Electronics,7,4,26.025,5,5,4,554,14,Champions
+Customer-446,Yangon,Furniture,55,6,64.8,4,5,5,455,14,Champions
+Customer-447,Naypyitaw,Office Supplies,360,1,0.475,1,1,1,111,3,Lost
+Customer-448,Mandalay,Electronics,140,3,42.025,2,4,4,244,10,At Risk
+Customer-450,Yangon,Electronics,246,3,27.45,1,4,4,144,9,Cant Lose Them
+Customer-452,Mandalay,Electronics,224,2,12.5,1,3,2,132,6,Need Attention
+Customer-453,Bago,Electronics,73,3,37.8,3,4,4,344,11,Loyal Customers
+Customer-454,Bago,Furniture,275,1,4.86,1,1,1,111,3,Lost
+Customer-455,Yangon,Office Supplies,356,1,4.32,1,1,1,111,3,Lost
+Customer-456,Mandalay,Electronics,175,2,25.2,2,3,4,234,9,At Risk
+Customer-457,Bago,Office Supplies,20,1,5.28,5,1,1,511,7,New Customers
+Customer-458,Taunggyi,Electronics,62,3,9.825,4,4,2,442,10,Potential Loyalist
+Customer-459,Yangon,Furniture,94,3,22.1,3,4,3,343,10,Loyal Customers
+Customer-460,Naypyitaw,Office Supplies,55,4,31.585,4,5,4,454,13,Champions
+Customer-461,Taunggyi,Electronics,293,1,5.95,1,1,1,111,3,Lost
+Customer-462,Bago,Furniture,255,1,5.22,1,1,1,111,3,Lost
+Customer-467,Taunggyi,Furniture,127,1,10.5,2,1,2,212,5,About To Sleep
+Customer-468,Yangon,Furniture,86,1,9.0,3,1,2,312,6,Promising
+Customer-469,Taunggyi,Electronics,20,3,41.94,5,4,4,544,13,Champions
+Customer-471,Yangon,Electronics,76,3,25.15,3,4,4,344,11,Loyal Customers
+Customer-472,Bago,Electronics,100,3,12.91,3,4,2,342,9,Potential Loyalist
+Customer-473,Taunggyi,Electronics,211,1,6.25,2,1,1,211,4,About To Sleep
+Customer-474,Yangon,Electronics,28,4,20.45,5,5,3,553,13,Loyal Customers
+Customer-475,Yangon,Electronics,31,2,6.45,5,3,1,531,9,Lost
+Customer-476,Yangon,Electronics,129,3,29.99,2,4,4,244,10,At Risk
+Customer-477,Taunggyi,Electronics,37,2,11.25,4,3,2,432,9,Potential Loyalist
+Customer-478,Naypyitaw,Electronics,160,1,56.4,2,1,5,215,8,Lost
+Customer-479,Taunggyi,Electronics,133,1,9.0,2,1,2,212,5,About To Sleep
+Customer-481,Bago,Furniture,71,1,2.5,4,1,1,411,6,New Customers
+Customer-482,Mandalay,Furniture,10,7,39.215,5,5,4,554,14,Champions
+Customer-485,Taunggyi,Electronics,224,2,33.9,1,3,4,134,8,Hibernating
+Customer-486,Yangon,Electronics,261,2,19.76,1,3,3,133,7,Hibernating
+Customer-488,Mandalay,Office Supplies,13,1,0.475,5,1,1,511,7,New Customers
+Customer-489,Naypyitaw,Electronics,20,1,52.8,5,1,5,515,11,New Customers
+Customer-490,Naypyitaw,Electronics,63,2,11.65,4,3,2,432,9,Potential Loyalist
+Customer-491,Taunggyi,Electronics,58,2,44.0,4,3,4,434,11,Loyal Customers
+Customer-492,Yangon,Electronics,99,2,11.35,3,3,2,332,8,Potential Loyalist
+Customer-494,Naypyitaw,Office Supplies,55,1,2.88,4,1,1,411,6,New Customers
+Customer-495,Mandalay,Electronics,44,6,1137.6,4,5,5,455,14,Champions
+Customer-496,Yangon,Electronics,62,1,8.2,4,1,2,412,7,New Customers
+Customer-497,Mandalay,Electronics,113,2,29.05,3,3,4,334,10,Loyal Customers
+Customer-499,Yangon,Furniture,113,9,1265.25,3,5,5,355,13,Loyal Customers
+Customer-500,Taunggyi,Electronics,268,1,5.5,1,1,1,111,3,Lost
+Customer-501,Bago,Office Supplies,246,2,5.51,1,3,1,131,5,Need Attention
+Customer-503,Mandalay,Office Supplies,92,3,8.96,3,4,2,342,9,Potential Loyalist
+Customer-504,Bago,Electronics,149,1,13.2,2,1,2,212,5,About To Sleep
+Customer-505,Taunggyi,Furniture,83,4,35.575,3,5,4,354,12,Loyal Customers
+Customer-506,Taunggyi,Office Supplies,23,1,4.92,5,1,1,511,7,New Customers
+Customer-508,Mandalay,Electronics,149,1,6.25,2,1,1,211,4,About To Sleep
+Customer-509,Mandalay,Furniture,43,3,18.2,4,4,3,443,11,Loyal Customers
+Customer-510,Mandalay,Furniture,94,2,11.25,3,3,2,332,8,Potential Loyalist
+Customer-511,Bago,Electronics,225,2,2.975,1,3,1,131,5,Need Attention
+Customer-512,Yangon,Electronics,227,2,49.6,1,3,5,135,9,Hibernating
+Customer-513,Naypyitaw,Electronics,302,1,3.8,1,1,1,111,3,Lost
+Customer-514,Taunggyi,Office Supplies,211,1,0.525,2,1,1,211,4,About To Sleep
+Customer-516,Taunggyi,Furniture,128,1,7.92,2,1,2,212,5,About To Sleep
+Customer-517,Yangon,Electronics,58,5,44.83,4,5,5,455,14,Champions
+Customer-518,Naypyitaw,Electronics,133,4,17.95,2,5,3,253,10,At Risk
+Customer-519,Naypyitaw,Office Supplies,149,1,2.64,2,1,1,211,4,About To Sleep
+Customer-520,Yangon,Furniture,43,3,12.42,4,4,2,442,10,Potential Loyalist
+Customer-521,Naypyitaw,Office Supplies,282,1,0.75,1,1,1,111,3,Lost
+Customer-522,Bago,Furniture,105,1,8.1,3,1,2,312,6,Promising
+Customer-523,Yangon,Electronics,62,4,51.52,4,5,5,455,14,Champions
+Customer-524,Yangon,Electronics,185,1,4.9,2,1,1,211,4,About To Sleep
+Customer-525,Mandalay,Electronics,283,1,4.5,1,1,1,111,3,Lost
+Customer-526,Taunggyi,Electronics,142,2,21.0,2,3,3,233,8,At Risk
+Customer-527,Naypyitaw,Electronics,63,1,11.9,4,1,2,412,7,New Customers
+Customer-528,Yangon,Electronics,297,1,4.25,1,1,1,111,3,Lost
+Customer-530,Taunggyi,Furniture,99,3,27.9,3,4,4,344,11,Loyal Customers
+Customer-532,Yangon,Furniture,129,1,4.95,2,2,1,221,5,About To Sleep
+Customer-533,Taunggyi,Furniture,296,1,13.5,1,2,2,122,5,Lost
+Customer-534,Naypyitaw,Furniture,8,2,7.065,5,3,2,532,10,Potential Loyalist
+Customer-535,Yangon,Electronics,104,3,52.74,3,4,5,345,12,Loyal Customers
+Customer-536,Yangon,Electronics,23,4,60.16,5,5,5,555,15,Champions
+Customer-537,Mandalay,Furniture,134,5,40.525,2,5,4,254,11,At Risk
+Customer-538,Mandalay,Furniture,16,2,5.82,5,3,1,531,9,Lost
+Customer-539,Bago,Furniture,356,1,14.5,1,2,3,123,6,Lost
+Customer-540,Naypyitaw,Electronics,51,4,20.2,4,5,3,453,12,Loyal Customers
+Customer-542,Taunggyi,Electronics,98,2,46.5,3,3,5,335,11,Loyal Customers
+Customer-543,Naypyitaw,Electronics,69,3,42.55,4,4,4,444,12,Champions
+Customer-544,Bago,Furniture,10,2,8.375,5,3,2,532,10,Potential Loyalist
+Customer-545,Taunggyi,Furniture,224,1,3.6,1,2,1,121,4,Lost
+Customer-546,Taunggyi,Electronics,71,1,19.2,4,2,3,423,9,New Customers
+Customer-547,Yangon,Office Supplies,225,1,0.84,1,2,1,121,4,Lost
+Customer-548,Bago,Electronics,79,4,42.35,3,5,4,354,12,Loyal Customers
+Customer-549,Bago,Electronics,206,1,26.6,2,2,4,224,8,Lost
+Customer-550,Bago,Electronics,38,2,17.3,4,3,3,433,10,Loyal Customers
+Customer-551,Taunggyi,Electronics,29,1,4.75,5,2,1,521,8,New Customers
+Customer-552,Mandalay,Electronics,267,1,35.15,1,2,4,124,7,Lost
+Customer-553,Mandalay,Electronics,36,4,27.32,4,5,4,454,13,Champions
+Customer-556,Mandalay,Furniture,349,1,18.0,1,2,3,123,6,Lost
+Customer-557,Mandalay,Furniture,210,2,7.325,2,3,2,232,7,Need Attention
+Customer-558,Yangon,Electronics,51,3,28.8,4,4,4,444,12,Champions
+Customer-559,Naypyitaw,Office Supplies,10,4,13.515,5,5,2,552,12,Potential Loyalist
+Customer-560,Mandalay,Electronics,1,3,67.0,5,4,5,545,14,Champions
+Customer-561,Mandalay,Electronics,38,5,54.25,4,5,5,455,14,Champions
+Customer-562,Bago,Electronics,29,2,35.1,5,3,4,534,12,Loyal Customers
+Customer-563,Yangon,Electronics,37,3,900.5,4,4,5,445,13,Champions
+Customer-564,Taunggyi,Office Supplies,290,1,2.76,1,2,1,121,4,Lost
+Customer-565,Yangon,Electronics,113,1,7.2,3,2,2,322,7,Potential Loyalist
+Customer-566,Bago,Office Supplies,63,1,5.64,4,2,1,421,7,New Customers
+Customer-569,Mandalay,Electronics,63,1,16.8,4,2,3,423,9,New Customers
+Customer-571,Taunggyi,Furniture,78,1,21.15,3,2,3,323,8,Potential Loyalist
+Customer-572,Yangon,Electronics,23,2,19.2,5,3,3,533,11,Loyal Customers
+Customer-574,Naypyitaw,Furniture,83,5,54.71,3,5,5,355,13,Loyal Customers
+Customer-575,Naypyitaw,Electronics,7,3,934.0,5,4,5,545,14,Champions
+Customer-576,Mandalay,Electronics,2,5,66.5,5,5,5,555,15,Champions
+Customer-577,Yangon,Furniture,227,1,6.48,1,2,1,121,4,Lost
+Customer-578,Naypyitaw,Electronics,255,1,9.75,1,2,2,122,5,Lost
+Customer-579,Taunggyi,Electronics,49,2,19.25,4,3,3,433,10,Loyal Customers
+Customer-580,Taunggyi,Electronics,100,3,44.35,3,4,4,344,11,Loyal Customers
+Customer-581,Bago,Furniture,43,3,12.93,4,4,2,442,10,Potential Loyalist
+Customer-582,Yangon,Electronics,112,1,13.65,3,2,2,322,7,Potential Loyalist
+Customer-585,Mandalay,Electronics,218,1,7.7,2,2,2,222,6,About To Sleep
+Customer-586,Taunggyi,Electronics,49,3,12.38,4,4,2,442,10,Potential Loyalist
+Customer-587,Naypyitaw,Electronics,162,1,4.2,2,2,1,221,5,About To Sleep
+Customer-588,Mandalay,Electronics,45,4,19.95,4,5,3,453,12,Loyal Customers
+Customer-589,Bago,Office Supplies,13,1,1.1,5,2,1,521,8,New Customers
+Customer-591,Yangon,Electronics,241,1,4.8,1,2,1,121,4,Lost
+Customer-592,Taunggyi,Furniture,55,2,10.56,4,3,2,432,9,Potential Loyalist
+Customer-593,Mandalay,Furniture,51,2,21.4,4,3,3,433,10,Loyal Customers
+Customer-594,Bago,Electronics,218,1,8.4,2,2,2,222,6,About To Sleep
+Customer-595,Bago,Office Supplies,93,3,4.595,3,4,1,341,8,Lost
+Customer-596,Mandalay,Office Supplies,171,3,35.35,2,4,4,244,10,At Risk
+Customer-597,Naypyitaw,Electronics,57,3,38.52,4,4,4,444,12,Champions
+Customer-598,Naypyitaw,Electronics,105,1,14.25,3,2,3,323,8,Potential Loyalist
+Customer-599,Naypyitaw,Office Supplies,161,1,0.8,2,2,1,221,5,About To Sleep
+Customer-601,Naypyitaw,Furniture,86,2,15.1,3,3,3,333,9,Loyal Customers
+Customer-603,Mandalay,Electronics,10,7,56.82,5,5,5,555,15,Champions
+Customer-604,Yangon,Furniture,261,2,25.53,1,3,4,134,8,Hibernating
+Customer-606,Yangon,Furniture,135,2,10.26,2,3,2,232,7,Need Attention
+Customer-607,Yangon,Office Supplies,218,2,9.12,2,3,2,232,7,Need Attention
+Customer-608,Mandalay,Electronics,273,3,74.25,1,4,5,145,10,Cant Lose Them
+Customer-609,Mandalay,Electronics,51,2,19.6,4,3,3,433,10,Loyal Customers
+Customer-610,Mandalay,Furniture,62,1,4.86,4,2,1,421,7,New Customers
+Customer-611,Mandalay,Electronics,224,1,1.2,1,2,1,121,4,Lost
+Customer-614,Taunggyi,Electronics,227,2,53.05,1,3,5,135,9,Hibernating
+Customer-615,Yangon,Furniture,28,1,7.02,5,2,1,521,8,New Customers
+Customer-616,Taunggyi,Electronics,174,2,31.1,2,3,4,234,9,At Risk
+Customer-617,Mandalay,Electronics,44,4,77.33,4,5,5,455,14,Champions
+Customer-618,Bago,Furniture,275,2,9.16,1,3,2,132,6,Need Attention
+Customer-619,Bago,Furniture,1,3,17.8,5,4,3,543,12,Loyal Customers
+Customer-620,Yangon,Electronics,55,6,1357.0,4,5,5,455,14,Champions
+Customer-621,Naypyitaw,Electronics,112,2,24.75,3,3,4,334,10,Loyal Customers
+Customer-624,Mandalay,Furniture,58,2,26.44,4,3,4,434,11,Loyal Customers
+Customer-625,Mandalay,Electronics,119,6,30.1,2,5,4,254,11,At Risk
+Customer-626,Mandalay,Electronics,111,6,46.155,3,5,5,355,13,Loyal Customers
+Customer-628,Mandalay,Furniture,16,5,34.375,5,5,4,554,14,Champions
+Customer-630,Bago,Electronics,57,1,8.6,4,2,2,422,8,New Customers
+Customer-631,Yangon,Electronics,224,1,29.45,1,2,4,124,7,Lost
+Customer-632,Yangon,Electronics,135,4,39.25,2,5,4,254,11,At Risk
+Customer-633,Naypyitaw,Furniture,83,2,7.74,3,3,2,332,8,Potential Loyalist
+Customer-634,Yangon,Electronics,36,2,20.7,4,3,3,433,10,Loyal Customers
+Customer-635,Naypyitaw,Electronics,16,2,10.94,5,3,2,532,10,Potential Loyalist
+Customer-636,Naypyitaw,Electronics,99,2,11.71,3,3,2,332,8,Potential Loyalist
+Customer-638,Bago,Furniture,238,1,6.3,1,2,1,121,4,Lost
+Customer-639,Bago,Electronics,276,1,9.4,1,2,2,122,5,Lost
+Customer-640,Bago,Furniture,175,4,59.5,2,5,5,255,12,At Risk
+Customer-642,Naypyitaw,Furniture,44,1,9.9,4,2,2,422,8,New Customers
+Customer-644,Naypyitaw,Furniture,24,2,5.16,5,3,1,531,9,Lost
+Customer-646,Yangon,Electronics,204,2,40.8,2,3,4,234,9,At Risk
+Customer-649,Yangon,Electronics,183,1,10.25,2,2,2,222,6,About To Sleep
+Customer-650,Mandalay,Electronics,56,3,6.99,4,4,1,441,9,Lost
+Customer-651,Mandalay,Electronics,104,3,23.375,3,4,3,343,10,Loyal Customers
+Customer-652,Mandalay,Furniture,202,1,1.08,2,2,1,221,5,About To Sleep
+Customer-653,Yangon,Electronics,27,4,41.675,5,5,4,554,14,Champions
+Customer-654,Mandalay,Electronics,118,4,48.3,3,5,5,355,13,Loyal Customers
+Customer-655,Yangon,Electronics,73,2,40.29,3,3,4,334,10,Loyal Customers
+Customer-657,Bago,Electronics,118,3,30.1,3,4,4,344,11,Loyal Customers
+Customer-658,Bago,Furniture,148,3,28.16,2,4,4,244,10,At Risk
+Customer-659,Yangon,Furniture,38,2,2.8,4,3,1,431,8,Lost
+Customer-661,Yangon,Furniture,218,2,11.775,2,3,2,232,7,Need Attention
+Customer-663,Bago,Furniture,128,5,400.75,2,5,5,255,12,At Risk
+Customer-664,Mandalay,Furniture,86,1,3.78,3,2,1,321,6,Promising
+Customer-665,Yangon,Electronics,8,3,6.175,5,4,1,541,10,Lost
+Customer-666,Yangon,Electronics,365,1,1.75,1,2,1,121,4,Lost
+Customer-667,Yangon,Electronics,24,8,1017.0,5,5,5,555,15,Champions
+Customer-668,Yangon,Furniture,29,1,9.5,5,2,2,522,9,New Customers
+Customer-669,Mandalay,Furniture,99,9,62.53,3,5,5,355,13,Loyal Customers
+Customer-670,Yangon,Furniture,10,10,59.1,5,5,5,555,15,Champions
+Customer-671,Naypyitaw,Electronics,346,1,2.5,1,2,1,121,4,Lost
+Customer-673,Yangon,Furniture,281,2,14.775,1,3,3,133,7,Hibernating
+Customer-674,Yangon,Electronics,363,1,15.75,1,2,3,123,6,Lost
+Customer-675,Naypyitaw,Furniture,112,1,10.35,3,2,2,322,7,Potential Loyalist
+Customer-676,Yangon,Furniture,9,2,10.68,5,3,2,532,10,Potential Loyalist
+Customer-677,Taunggyi,Electronics,31,2,6.28,5,3,1,531,9,Lost
+Customer-678,Bago,Electronics,8,4,404.9,5,5,5,555,15,Champions
+Customer-680,Naypyitaw,Electronics,357,1,45.6,1,2,5,125,8,Lost
+Customer-681,Naypyitaw,Electronics,41,2,22.05,4,3,3,433,10,Loyal Customers
+Customer-682,Naypyitaw,Electronics,41,4,47.7,4,5,5,455,14,Champions
+Customer-683,Naypyitaw,Furniture,216,1,4.32,2,2,1,221,5,About To Sleep
+Customer-684,Taunggyi,Electronics,260,3,18.6,1,4,3,143,8,Hibernating
+Customer-685,Taunggyi,Furniture,72,2,9.65,3,3,2,332,8,Potential Loyalist
+Customer-686,Naypyitaw,Electronics,35,2,7.4,4,3,2,432,9,Potential Loyalist
+Customer-687,Yangon,Electronics,71,4,28.66,4,5,4,454,13,Champions
+Customer-688,Yangon,Electronics,245,2,8.975,1,3,2,132,6,Need Attention
+Customer-689,Yangon,Electronics,44,3,72.1,4,4,5,445,13,Champions
+Customer-690,Bago,Furniture,85,4,19.34,3,5,3,353,11,Loyal Customers
+Customer-692,Mandalay,Electronics,15,3,22.04,5,4,3,543,12,Loyal Customers
+Customer-693,Naypyitaw,Electronics,273,1,15.6,1,2,3,123,6,Lost
+Customer-694,Mandalay,Electronics,269,4,24.46,1,5,4,154,10,Cant Lose Them
+Customer-695,Yangon,Electronics,13,3,24.25,5,4,4,544,13,Champions
+Customer-696,Taunggyi,Office Supplies,301,1,0.975,1,2,1,121,4,Lost
+Customer-697,Taunggyi,Electronics,254,1,8.4,1,2,2,122,5,Lost
+Customer-698,Mandalay,Furniture,36,1,8.82,4,2,2,422,8,New Customers
+Customer-699,Mandalay,Office Supplies,360,1,4.44,1,2,1,121,4,Lost
+Customer-700,Yangon,Electronics,181,2,16.42,2,3,3,233,8,At Risk
+Customer-702,Mandalay,Electronics,23,4,33.08,5,5,4,554,14,Champions
+Customer-703,Mandalay,Furniture,83,3,47.88,3,4,5,345,12,Loyal Customers
+Customer-704,Yangon,Furniture,281,1,23.0,1,2,3,123,6,Lost
+Customer-705,Mandalay,Electronics,63,3,40.75,4,4,4,444,12,Champions
+Customer-708,Yangon,Electronics,23,2,18.1,5,3,3,533,11,Loyal Customers
+Customer-709,Yangon,Furniture,233,2,38.65,1,3,4,134,8,Hibernating
+Customer-710,Bago,Electronics,58,4,872.0,4,5,5,455,14,Champions
+Customer-711,Mandalay,Electronics,71,2,28.5,4,3,4,434,11,Loyal Customers
+Customer-712,Bago,Furniture,8,1,11.7,5,2,2,522,9,New Customers
+Customer-713,Bago,Electronics,79,2,24.45,3,3,4,334,10,Loyal Customers
+Customer-714,Naypyitaw,Electronics,72,3,14.38,3,4,3,343,10,Loyal Customers
+Customer-716,Naypyitaw,Electronics,244,2,28.55,1,3,4,134,8,Hibernating
+Customer-717,Naypyitaw,Electronics,15,1,4.2,5,2,1,521,8,New Customers
+Customer-718,Yangon,Furniture,15,1,17.1,5,2,3,523,10,New Customers
+Customer-719,Naypyitaw,Furniture,6,3,28.85,5,4,4,544,13,Champions
+Customer-720,Taunggyi,Electronics,360,1,9.25,1,2,2,122,5,Lost
+Customer-721,Naypyitaw,Furniture,80,1,5.58,3,2,1,321,6,Promising
+Customer-722,Taunggyi,Office Supplies,203,1,1.175,2,2,1,221,5,About To Sleep
+Customer-723,Naypyitaw,Electronics,2,2,13.92,5,3,3,533,11,Loyal Customers
+Customer-724,Bago,Electronics,92,1,9.2,3,2,2,322,7,Potential Loyalist
+Customer-725,Yangon,Electronics,76,8,889.2,3,5,5,355,13,Loyal Customers
+Customer-727,Yangon,Electronics,79,3,60.54,3,4,5,345,12,Loyal Customers
+Customer-728,Mandalay,Office Supplies,202,1,0.65,2,2,1,221,5,About To Sleep
+Customer-729,Bago,Electronics,363,1,8.75,1,2,2,122,5,Lost
+Customer-730,Naypyitaw,Electronics,129,2,34.6,2,3,4,234,9,At Risk
+Customer-731,Mandalay,Electronics,43,2,11.025,4,3,2,432,9,Potential Loyalist
+Customer-732,Naypyitaw,Electronics,35,6,1516.25,4,5,5,455,14,Champions
+Customer-733,Yangon,Office Supplies,63,1,4.56,4,2,1,421,7,New Customers
+Customer-734,Yangon,Electronics,10,2,12.0,5,3,2,532,10,Potential Loyalist
+Customer-735,Yangon,Electronics,101,2,41.2,3,3,4,334,10,Loyal Customers
+Customer-737,Bago,Electronics,290,2,38.45,1,3,4,134,8,Hibernating
+Customer-738,Yangon,Office Supplies,202,3,19.13,2,4,3,243,9,At Risk
+Customer-739,Yangon,Electronics,6,2,15.34,5,3,3,533,11,Loyal Customers
+Customer-740,Mandalay,Furniture,31,2,24.1,5,3,4,534,12,Loyal Customers
+Customer-742,Naypyitaw,Electronics,27,4,53.75,5,5,5,555,15,Champions
+Customer-744,Naypyitaw,Furniture,45,5,40.235,4,5,4,454,13,Champions
+Customer-745,Taunggyi,Furniture,105,2,25.5,3,3,4,334,10,Loyal Customers
+Customer-746,Bago,Furniture,69,3,34.45,4,4,4,444,12,Champions
+Customer-747,Naypyitaw,Electronics,20,2,33.12,5,3,4,534,12,Loyal Customers
+Customer-748,Bago,Office Supplies,51,3,5.055,4,4,1,441,9,Lost
+Customer-749,Mandalay,Furniture,302,1,4.0,1,2,1,121,4,Lost
+Customer-750,Taunggyi,Furniture,62,1,15.75,4,2,3,423,9,New Customers
+Customer-751,Naypyitaw,Furniture,265,1,7.56,1,2,2,122,5,Lost
+Customer-752,Bago,Electronics,183,4,72.57,2,5,5,255,12,At Risk
+Customer-753,Yangon,Electronics,139,1,39.9,2,2,4,224,8,Lost
+Customer-754,Naypyitaw,Electronics,216,2,53.5,2,3,5,235,10,At Risk
+Customer-755,Taunggyi,Electronics,64,2,37.4,4,3,4,434,11,Loyal Customers
+Customer-756,Mandalay,Furniture,56,7,41.695,4,5,4,454,13,Champions
+Customer-757,Naypyitaw,Electronics,72,4,48.4,3,5,5,355,13,Loyal Customers
+Customer-758,Yangon,Furniture,86,5,50.3,3,5,5,355,13,Loyal Customers
+Customer-759,Naypyitaw,Electronics,307,1,15.2,1,2,3,123,6,Lost
+Customer-760,Naypyitaw,Electronics,73,2,13.3,3,3,2,332,8,Potential Loyalist
+Customer-761,Mandalay,Furniture,105,5,45.175,3,5,5,355,13,Loyal Customers
+Customer-762,Bago,Electronics,73,3,53.07,3,4,5,345,12,Loyal Customers
+Customer-764,Yangon,Electronics,73,2,34.0,3,3,4,334,10,Loyal Customers
+Customer-766,Naypyitaw,Furniture,245,1,19.0,1,2,3,123,6,Lost
+Customer-767,Naypyitaw,Furniture,113,1,9.0,3,2,2,322,7,Potential Loyalist
+Customer-769,Yangon,Electronics,20,4,39.98,5,5,4,554,14,Champions
+Customer-770,Mandalay,Electronics,6,4,30.45,5,5,4,554,14,Champions
+Customer-771,Bago,Office Supplies,168,5,40.73,2,5,4,254,11,At Risk
+Customer-772,Yangon,Office Supplies,63,1,4.32,4,2,1,421,7,New Customers
+Customer-773,Bago,Electronics,94,1,9.5,3,2,2,322,7,Potential Loyalist
+Customer-774,Taunggyi,Electronics,73,4,69.8,3,5,5,355,13,Loyal Customers
+Customer-775,Naypyitaw,Electronics,104,2,46.56,3,3,5,335,11,Loyal Customers
+Customer-776,Mandalay,Electronics,106,5,62.575,3,5,5,355,13,Loyal Customers
+Customer-777,Yangon,Electronics,9,4,45.21,5,5,5,555,15,Champions
+Customer-778,Mandalay,Electronics,346,1,31.35,1,2,4,124,7,Lost
+Customer-781,Mandalay,Furniture,58,4,30.725,4,5,4,454,13,Champions
+Customer-782,Taunggyi,Furniture,69,1,22.0,4,2,3,423,9,New Customers
+Customer-783,Yangon,Office Supplies,108,3,5.89,3,4,1,341,8,Lost
+Customer-784,Mandalay,Electronics,45,6,833.4,4,5,5,455,14,Champions
+Customer-785,Yangon,Electronics,1,6,53.99,5,5,5,555,15,Champions
+Customer-786,Mandalay,Electronics,251,2,34.75,1,3,4,134,8,Hibernating
+Customer-787,Mandalay,Electronics,69,1,5.0,4,2,1,421,7,New Customers
+Customer-788,Bago,Furniture,206,1,3.24,2,2,1,221,5,About To Sleep
+Customer-789,Yangon,Furniture,24,9,51.855,5,5,5,555,15,Champions
+Customer-790,Naypyitaw,Electronics,92,1,3.5,3,2,1,321,6,Promising
+Customer-791,Taunggyi,Office Supplies,261,1,1.125,1,2,1,121,4,Lost
+Customer-792,Taunggyi,Electronics,37,2,13.95,4,3,3,433,10,Loyal Customers
+Customer-794,Yangon,Furniture,94,1,11.0,3,2,2,322,7,Potential Loyalist
+Customer-795,Bago,Office Supplies,350,1,1.92,1,2,1,121,4,Lost
+Customer-796,Taunggyi,Office Supplies,36,3,16.575,4,4,3,443,11,Loyal Customers
+Customer-797,Bago,Office Supplies,160,1,0.475,2,2,1,221,5,About To Sleep
+Customer-799,Bago,Electronics,2,2,56.1,5,3,5,535,13,Loyal Customers
+Customer-800,Naypyitaw,Furniture,71,2,18.275,4,3,3,433,10,Loyal Customers
+Customer-801,Bago,Furniture,365,1,5.04,1,2,1,121,4,Lost
+Customer-802,Mandalay,Electronics,16,7,943.4,5,5,5,555,15,Champions
+Customer-803,Taunggyi,Electronics,27,7,49.74,5,5,5,555,15,Champions
+Customer-804,Yangon,Electronics,9,8,1001.0,5,5,5,555,15,Champions
+Customer-805,Bago,Electronics,175,1,1.4,2,2,1,221,5,About To Sleep
+Customer-806,Naypyitaw,Furniture,6,7,1045.3,5,5,5,555,15,Champions
+Customer-807,Naypyitaw,Electronics,357,1,19.95,1,2,3,123,6,Lost
+Customer-808,Naypyitaw,Furniture,139,4,13.885,2,5,3,253,10,At Risk
+Customer-809,Taunggyi,Electronics,36,2,26.275,4,3,4,434,11,Loyal Customers
+Customer-810,Bago,Electronics,64,1,1.4,4,2,1,421,7,New Customers
+Customer-812,Mandalay,Office Supplies,92,4,10.13,3,5,2,352,10,Potential Loyalist
+Customer-813,Mandalay,Furniture,248,1,3.0,1,2,1,121,4,Lost
+Customer-816,Yangon,Electronics,10,7,1093.5,5,5,5,555,15,Champions
+Customer-817,Naypyitaw,Furniture,1,3,32.6,5,4,4,544,13,Champions
+Customer-818,Yangon,Electronics,297,1,11.9,1,2,2,122,5,Lost
+Customer-819,Yangon,Electronics,8,2,34.05,5,3,4,534,12,Loyal Customers
+Customer-820,Taunggyi,Electronics,119,2,8.0,2,3,2,232,7,Need Attention
+Customer-821,Naypyitaw,Electronics,218,1,5.0,2,2,1,221,5,About To Sleep
+Customer-822,Naypyitaw,Electronics,157,2,42.1,2,3,4,234,9,At Risk
+Customer-823,Bago,Furniture,345,1,22.05,1,2,3,123,6,Lost
+Customer-824,Mandalay,Electronics,43,3,21.99,4,4,3,443,11,Loyal Customers
+Customer-825,Yangon,Electronics,76,2,63.45,3,3,5,335,11,Loyal Customers
+Customer-826,Taunggyi,Electronics,6,3,75.15,5,4,5,545,14,Champions
+Customer-827,Naypyitaw,Furniture,9,6,79.2,5,5,5,555,15,Champions
+Customer-828,Mandalay,Electronics,216,1,6.65,2,2,1,221,5,About To Sleep
+Customer-829,Naypyitaw,Electronics,15,2,16.79,5,3,3,533,11,Loyal Customers
+Customer-831,Taunggyi,Office Supplies,309,1,0.65,1,2,1,121,4,Lost
+Customer-832,Bago,Electronics,7,2,24.65,5,3,4,534,12,Loyal Customers
+Customer-833,Mandalay,Electronics,251,2,26.15,1,3,4,134,8,Hibernating
+Customer-834,Yangon,Electronics,115,3,27.95,3,4,4,344,11,Loyal Customers
+Customer-835,Mandalay,Electronics,351,1,11.75,1,2,2,122,5,Lost
+Customer-836,Yangon,Electronics,56,3,26.92,4,4,4,444,12,Champions
+Customer-837,Naypyitaw,Electronics,246,2,4.3,1,3,1,131,5,Need Attention
+Customer-839,Mandalay,Electronics,211,3,63.82,2,4,5,245,11,At Risk
+Customer-840,Mandalay,Electronics,64,3,28.99,4,4,4,444,12,Champions
+Customer-842,Naypyitaw,Furniture,113,1,25.0,3,2,4,324,9,Potential Loyalist
+Customer-844,Taunggyi,Office Supplies,27,4,19.075,5,5,3,553,13,Loyal Customers
+Customer-845,Bago,Furniture,83,3,26.615,3,4,4,344,11,Loyal Customers
+Customer-846,Yangon,Furniture,16,4,23.06,5,5,3,553,13,Loyal Customers
+Customer-849,Yangon,Furniture,64,3,48.5,4,4,5,445,13,Champions
+Customer-851,Yangon,Electronics,55,3,9.58,4,4,2,442,10,Potential Loyalist
+Customer-853,Bago,Electronics,9,3,22.24,5,4,3,543,12,Loyal Customers
+Customer-854,Yangon,Electronics,36,1,3.75,4,2,1,421,7,New Customers
+Customer-856,Naypyitaw,Electronics,44,1,8.6,4,2,2,422,8,New Customers
+Customer-857,Taunggyi,Furniture,35,3,35.5,4,4,4,444,12,Champions
+Customer-858,Bago,Electronics,57,4,24.04,4,5,3,453,12,Loyal Customers
+Customer-860,Yangon,Electronics,86,2,11.75,3,3,2,332,8,Potential Loyalist
+Customer-861,Taunggyi,Electronics,97,1,2.5,3,2,1,321,6,Promising
+Customer-863,Bago,Electronics,141,4,58.52,2,5,5,255,12,At Risk
+Customer-864,Naypyitaw,Furniture,8,2,24.85,5,3,4,534,12,Loyal Customers
+Customer-865,Mandalay,Electronics,43,2,6.4,4,3,1,431,8,Lost
+Customer-866,Yangon,Office Supplies,51,1,4.44,4,2,1,421,7,New Customers
+Customer-867,Naypyitaw,Furniture,325,1,4.68,1,2,1,121,4,Lost
+Customer-868,Taunggyi,Electronics,115,1,6.4,3,2,1,321,6,Promising
+Customer-869,Naypyitaw,Office Supplies,99,2,1.475,3,3,1,331,7,Lost
+Customer-870,Yangon,Electronics,31,6,29.61,5,5,4,554,14,Champions
+Customer-871,Yangon,Electronics,29,4,977.0,5,5,5,555,15,Champions
+Customer-872,Mandalay,Electronics,31,5,1033.75,5,5,5,555,15,Champions
+Customer-873,Naypyitaw,Electronics,204,2,7.66,2,3,2,232,7,Need Attention
+Customer-874,Yangon,Office Supplies,55,1,1.25,4,2,1,421,7,New Customers
+Customer-876,Mandalay,Electronics,276,1,4.75,1,2,1,121,4,Lost
+Customer-879,Mandalay,Electronics,28,3,25.45,5,4,4,544,13,Champions
+Customer-880,Bago,Electronics,350,1,9.25,1,2,2,122,5,Lost
+Customer-881,Mandalay,Electronics,8,4,28.5,5,5,4,554,14,Champions
+Customer-882,Yangon,Electronics,64,3,37.85,4,4,4,444,12,Champions
+Customer-883,Naypyitaw,Electronics,198,1,2.5,2,2,1,221,5,About To Sleep
+Customer-884,Bago,Furniture,295,1,16.65,1,2,3,123,6,Lost
+Customer-885,Mandalay,Office Supplies,1,4,57.45,5,5,5,555,15,Champions
+Customer-886,Mandalay,Electronics,55,2,13.95,4,3,3,433,10,Loyal Customers
+Customer-887,Mandalay,Electronics,10,2,34.55,5,3,4,534,12,Loyal Customers
+Customer-888,Bago,Electronics,45,7,938.25,4,5,5,455,14,Champions
+Customer-889,Mandalay,Furniture,24,5,55.8,5,5,5,555,15,Champions
+Customer-890,Yangon,Electronics,149,2,13.61,2,3,2,232,7,Need Attention
+Customer-891,Bago,Electronics,8,3,31.475,5,4,4,544,13,Champions
+Customer-892,Mandalay,Electronics,63,4,17.9,4,5,3,453,12,Loyal Customers
+Customer-893,Naypyitaw,Office Supplies,174,1,0.425,2,2,1,221,5,About To Sleep
+Customer-895,Naypyitaw,Electronics,269,2,64.08,1,3,5,135,9,Hibernating
+Customer-896,Naypyitaw,Electronics,111,3,14.27,3,4,3,343,10,Loyal Customers
+Customer-897,Taunggyi,Electronics,7,3,21.39,5,4,3,543,12,Loyal Customers
+Customer-898,Mandalay,Furniture,62,3,26.69,4,4,4,444,12,Champions
+Customer-900,Mandalay,Electronics,41,5,48.75,4,5,5,455,14,Champions
+Customer-901,Mandalay,Electronics,71,1,1.75,4,2,1,421,7,New Customers
+Customer-902,Mandalay,Electronics,118,2,25.67,3,3,4,334,10,Loyal Customers
+Customer-904,Mandalay,Electronics,364,1,7.0,1,2,1,121,4,Lost
+Customer-905,Mandalay,Electronics,73,2,19.7,3,3,3,333,9,Loyal Customers
+Customer-907,Naypyitaw,Furniture,234,2,15.125,1,3,3,133,7,Hibernating
+Customer-908,Bago,Furniture,45,1,7.65,4,2,2,422,8,New Customers
+Customer-909,Mandalay,Electronics,192,2,52.6,2,3,5,235,10,At Risk
+Customer-910,Yangon,Electronics,255,1,8.75,1,2,2,122,5,Lost
+Customer-911,Bago,Electronics,1,4,62.0,5,5,5,555,15,Champions
+Customer-912,Yangon,Electronics,183,4,29.43,2,5,4,254,11,At Risk
+Customer-913,Yangon,Furniture,29,4,57.55,5,5,5,555,15,Champions
+Customer-914,Bago,Electronics,71,1,8.5,4,2,2,422,8,New Customers
+Customer-915,Yangon,Electronics,16,3,396.5,5,4,5,545,14,Champions
+Customer-916,Yangon,Electronics,16,4,40.5,5,5,4,554,14,Champions
+Customer-917,Naypyitaw,Electronics,160,1,9.5,2,2,2,222,6,About To Sleep
+Customer-918,Yangon,Electronics,31,10,412.5,5,5,5,555,15,Champions
+Customer-919,Mandalay,Electronics,41,8,76.2,4,5,5,455,14,Champions
+Customer-920,Mandalay,Furniture,8,3,39.56,5,4,4,544,13,Champions
+Customer-921,Taunggyi,Electronics,176,2,28.7,2,3,4,234,9,At Risk
+Customer-922,Naypyitaw,Furniture,97,2,27.02,3,4,4,344,11,Loyal Customers
+Customer-923,Yangon,Electronics,283,1,54.0,1,2,5,125,8,Lost
+Customer-924,Taunggyi,Furniture,62,3,31.2,4,4,4,444,12,Champions
+Customer-925,Mandalay,Electronics,45,3,58.2,4,4,5,445,13,Champions
+Customer-926,Naypyitaw,Office Supplies,149,3,8.505,2,4,2,242,8,Need Attention
+Customer-927,Taunggyi,Electronics,101,6,62.55,3,5,5,355,13,Loyal Customers
+Customer-928,Mandalay,Electronics,169,5,37.575,2,5,4,254,11,At Risk
+Customer-929,Mandalay,Electronics,93,1,1.75,3,2,1,321,6,Promising
+Customer-931,Yangon,Electronics,364,1,7.35,1,2,2,122,5,Lost
+Customer-932,Taunggyi,Electronics,27,1,20.9,5,2,3,523,10,New Customers
+Customer-933,Taunggyi,Electronics,324,1,38.95,1,2,4,124,7,Lost
+Customer-934,Taunggyi,Office Supplies,224,1,0.72,1,2,1,121,4,Lost
+Customer-935,Yangon,Furniture,188,1,8.64,2,2,2,222,6,About To Sleep
+Customer-936,Mandalay,Electronics,149,3,19.2,2,4,3,243,9,At Risk
+Customer-937,Bago,Electronics,45,2,47.45,4,4,5,445,13,Champions
+Customer-938,Bago,Electronics,259,1,7.6,1,2,2,122,5,Lost
+Customer-939,Yangon,Furniture,140,1,7.74,2,2,2,222,6,About To Sleep
+Customer-940,Taunggyi,Electronics,140,3,37.85,2,4,4,244,10,At Risk
+Customer-941,Naypyitaw,Electronics,49,3,23.4,4,4,3,443,11,Loyal Customers
+Customer-942,Taunggyi,Furniture,56,1,8.55,4,2,2,422,8,New Customers
+Customer-943,Bago,Furniture,283,1,22.05,1,2,3,123,6,Lost
+Customer-944,Yangon,Electronics,64,3,44.3,4,4,4,444,12,Champions
+Customer-945,Yangon,Electronics,37,1,5.5,4,2,1,421,7,New Customers
+Customer-946,Taunggyi,Furniture,148,4,30.72,2,5,4,254,11,At Risk
+Customer-947,Naypyitaw,Office Supplies,112,3,7.37,3,4,2,342,9,Potential Loyalist
+Customer-948,Yangon,Furniture,15,8,73.675,5,5,5,555,15,Champions
+Customer-949,Bago,Furniture,99,4,40.7,3,5,4,354,12,Loyal Customers
+Customer-950,Taunggyi,Electronics,83,2,47.15,3,4,5,345,12,Loyal Customers
+Customer-951,Bago,Electronics,190,2,17.25,2,4,3,243,9,At Risk
+Customer-954,Bago,Electronics,216,1,7.35,2,2,2,222,6,About To Sleep
+Customer-955,Naypyitaw,Electronics,350,1,6.0,1,2,1,121,4,Lost
+Customer-957,Yangon,Furniture,23,2,25.29,5,4,4,544,13,Champions
+Customer-958,Mandalay,Furniture,29,6,50.4,5,5,5,555,15,Champions
+Customer-959,Taunggyi,Office Supplies,142,2,6.595,2,4,1,241,7,Need Attention
+Customer-961,Mandalay,Electronics,106,6,52.46,3,5,5,355,13,Loyal Customers
+Customer-962,Mandalay,Electronics,35,5,31.805,4,5,4,454,13,Champions
+Customer-963,Yangon,Electronics,85,1,6.5,3,2,1,321,6,Promising
+Customer-964,Mandalay,Electronics,8,6,32.765,5,5,4,554,14,Champions
+Customer-966,Yangon,Electronics,114,1,16.1,3,2,3,323,8,Potential Loyalist
+Customer-967,Bago,Electronics,101,1,8.2,3,2,2,322,7,Potential Loyalist
+Customer-968,Taunggyi,Electronics,1,4,33.05,5,5,4,554,14,Champions
+Customer-969,Mandalay,Electronics,31,7,412.0,5,5,5,555,15,Champions
+Customer-970,Mandalay,Electronics,28,4,42.91,5,5,4,554,14,Champions
+Customer-971,Naypyitaw,Electronics,273,1,5.0,1,2,1,121,4,Lost
+Customer-972,Naypyitaw,Electronics,181,2,37.2,2,4,4,244,10,At Risk
+Customer-974,Mandalay,Electronics,10,3,60.15,5,4,5,545,14,Champions
+Customer-976,Taunggyi,Electronics,7,3,10.26,5,4,2,542,11,Potential Loyalist
+Customer-977,Taunggyi,Electronics,69,4,1161.1,4,5,5,455,14,Champions
+Customer-978,Yangon,Office Supplies,196,4,15.585,2,5,3,253,10,At Risk
+Customer-979,Taunggyi,Electronics,224,2,15.6,1,4,3,143,8,Hibernating
+Customer-980,Naypyitaw,Electronics,72,4,35.375,3,5,4,354,12,Loyal Customers
+Customer-981,Mandalay,Electronics,175,3,56.3,2,4,5,245,11,At Risk
+Customer-983,Taunggyi,Furniture,322,1,2.25,1,2,1,121,4,Lost
+Customer-984,Taunggyi,Furniture,307,1,7.74,1,2,2,122,5,Lost
+Customer-985,Bago,Electronics,24,5,1105.0,5,5,5,555,15,Champions
+Customer-986,Bago,Furniture,297,1,17.1,1,2,3,123,6,Lost
+Customer-988,Bago,Electronics,105,2,16.5,3,4,3,343,10,Loyal Customers
+Customer-990,Yangon,Furniture,325,1,16.2,1,2,3,123,6,Lost
+Customer-991,Yangon,Office Supplies,148,2,2.595,2,4,1,241,7,Need Attention
+Customer-992,Mandalay,Furniture,15,3,21.25,5,4,3,543,12,Loyal Customers
+Customer-993,Yangon,Electronics,162,3,18.075,2,4,3,243,9,At Risk
+Customer-995,Bago,Furniture,9,2,6.9,5,4,1,541,10,Lost
+Customer-996,Yangon,Electronics,105,3,14.87,3,4,3,343,10,Loyal Customers
+Customer-997,Mandalay,Electronics,105,3,58.47,3,4,5,345,12,Loyal Customers
+Customer-998,Mandalay,Electronics,80,5,852.75,3,5,5,355,13,Loyal Customers
+Customer-999,Naypyitaw,Electronics,168,2,10.8,2,4,2,242,8,Need Attention
